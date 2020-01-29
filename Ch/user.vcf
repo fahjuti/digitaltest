@@ -1,14 +1,15 @@
 BEGIN:VCARD
-VERSION:3.0
-PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Charamphon Menkhao;;;
-FN:Charamphon Menkhao
-ORG:Geniussoft Co.,Ltd.;
-TITLE:Marketing Specialist\n
-EMAIL;type=INTERNET;type=WORK;type=pref:Charamphon.m@geniussoft.co.th
-TEL;type=WORK;type=VOICE:0803564394
-item1.ADR;type=WORK;type=pref:;;No.88 PASO Tower,15th floor,Unit B2 Silom Road Suriyawong,Bangruk,Bangkok 10500 Thailand
-item1.X-ABADR:sg
-item2.URL;type=pref:https://www.geniussoft.co.th/
-item2.X-ABLabel:_$!<HomePage>!$_
+VERSION:4.0
+N:Gump;Forrest;;Mr.;
+FN:Forrest Gump
+ORG:Bubba Gump Shrimp Co.
+TITLE:Shrimp Man
+PHOTO;MEDIATYPE=image/gif:https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiqi7KI3KjnAhXMyjgGHSwRD6UQjRx6BAgBEAQ&url=https%3A%2F%2Fth.wikipedia.org%2Fwiki%2F%25E0%25B9%2584%25E0%25B8%259F%25E0%25B8%25A5%25E0%25B9%258C%3AG-dragon_profile.jpg&psig=AOvVaw055w-BTcrhnOC9Z6MiLH0y&ust=1580384173753206
+TEL;TYPE=work,voice;VALUE=uri:tel:+1-111-555-1212
+TEL;TYPE=home,voice;VALUE=uri:tel:+1-404-555-1212
+ADR;TYPE=WORK;PREF=1;LABEL="100 Waters Edge\nBaytown\, LA 30314\nUnited States of America":;;100 Waters Edge;Baytown;LA;30314;United States of America
+ADR;TYPE=HOME;LABEL="42 Plantation St.\nBaytown\, LA 30314\nUnited States of America":;;42 Plantation St.;Baytown;LA;30314;United States of America
+EMAIL:forrestgump@example.com
+REV:20080424T195243Z
+x-qq:21588891
 END:VCARD
