@@ -1,10 +1,10 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Gump;Forrest;;Mr.;
-FN:Forrest Gump
+N:kanyarat Lortrakul;
+FN:kanyarat Lortrakul
 ORG:Bubba Gump Shrimp Co.
 TITLE:Shrimp Man
-PHOTO;VALUE=URI;TYPE=image/gif:;https://img2.thaipng.com/20180401/dbq/kisspng-user-profile-computer-icons-profile-5ac09245049c32.0935523415225697970189.jpg
+PHOTO;TYPE=svg:https://image.flaticon.com/icons/svg/2503/2503245.svg
 TEL;TYPE=WORK,VOICE:(111) 555-1212
 TEL;TYPE=HOME,VOICE:(404) 555-1212
 ADR;TYPE=WORK,PREF:;;100 Waters Edge;Baytown;LA;30314;United States of America
