@@ -1,16 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
+PHOTO;TYPE=svg:https://image.flaticon.com/icons/svg/2503/2503245.svg
 N:kanyarat Lortrakul;
 FN:kanyarat Lortrakul
-ORG:Bubba Gump Shrimp Co.
-TITLE:Shrimp Man
-PHOTO;TYPE=svg:https://image.flaticon.com/icons/svg/2503/2503245.svg
-TEL;TYPE=WORK,VOICE:(111) 555-1212
-TEL;TYPE=HOME,VOICE:(404) 555-1212
-ADR;TYPE=WORK,PREF:;;100 Waters Edge;Baytown;LA;30314;United States of America
-LABEL;TYPE=WORK,PREF:100 Waters Edge\nBaytown\, LA 30314\nUnited States of America
-ADR;TYPE=HOME:;;42 Plantation St.;Baytown;LA;30314;United States of America
-LABEL;TYPE=HOME:42 Plantation St.\nBaytown\, LA 30314\nUnited States of America
-EMAIL:forrestgump@example.com
-REV:2008-04-24T19:52:43Z
+ORG:Geniussoft Co.,Ltd.;
+TITLE:Associate Software Test Engineer
+EMAIL;type=INTERNET;type=WORK;type=pref:kanyarat.l@geniussoft.co.th
+TEL;type=WORK;type=VOICE:0803564394
+item1.ADR;type=WORK;type=pref:;;No.88 PASO Tower,15th floor,Unit B2 Silom Road Suriyawong,Bangruk,Bangkok 10500 Thailand
+item1.X-ABADR:sg
+item2.URL;type=pref:https://www.geniussoft.co.th/
+item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
